@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MinutesToYears {
+public class Demo018 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
