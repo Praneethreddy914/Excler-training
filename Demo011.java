@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Demo11 {
+public class Demo011 {
         protected String name;
         protected int age;
         protected String email;
